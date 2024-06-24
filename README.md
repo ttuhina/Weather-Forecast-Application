@@ -2,20 +2,6 @@
 
 This project fetches current weather and 5-day forecast data for a specified city using the OpenWeatherMap API. The original callback-based code has been refactored to use Promises and Async/Await for improved readability and error handling.
 
-Project Structure : 
-
-weather-aggregator/
-│
-├── original/
-│   ├── weather-using-callback.js         # Original callback-based implementation
-│
-└── async-await/
-    ├── weather-using-async.js            # Refactored code using Promises and Async/Await
-    ├── c.js                              # Configuration file with API key and city
-    ├── package.json                      # Project metadata and dependencies
-    ├── weatherData.json                  # Output file containing fetched data
-    
-
 Files : 
 
 1. weather-using-async.js
