@@ -1,4 +1,4 @@
-                                    WEATHER INFORMATION AGGREGATOR
+## WEATHER INFORMATION AGGREGATOR
 
 This project fetches current weather and 5-day forecast data for a specified city using the OpenWeatherMap API. The original callback-based code has been refactored to use Promises and Async/Await for improved readability and error handling.
 
